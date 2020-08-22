@@ -31,3 +31,14 @@ l=o+int(p)
 print(l)
 print(type(l))
 
+# string to Tuple
+
+z="sambit"
+vz= tuple(z)
+print(vz)
+print(type(vz))
+
+lz=list(z)
+print(lz)
+print(type(lz))
+
