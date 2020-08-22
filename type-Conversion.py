@@ -42,3 +42,6 @@ lz=list(z)
 print(lz)
 print(type(lz))
 
+s= 10
+print(bin(s))
+print(type(s))
