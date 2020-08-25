@@ -1,9 +1,9 @@
 # For loop Simple
-# st= "Ireland"
-# for ch in st:
-#     print(ch)
+st= "Ireland"
+for ch in st:
+    print(ch)
 
-# print("Rest of the code")
+print("Rest of the code")
 
 # For loop Range
 
