@@ -1,4 +1,6 @@
 # numpy with array function 
+# numpy one D array syntax 
+# syntax : numpy.array( object, dtype= None, copy=True, order='k', subok=False, ndmin=0)
 from  numpy import *
 #import numpy
 
